@@ -1,0 +1,8 @@
+pandas
+geopandas
+xarray
+folium
+bokeh
+holoviews
+numpy
+matplotlib
